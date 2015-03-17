@@ -1,0 +1,1 @@
+cx_freeze for pytho3.2  --  http://sourceforge.net/projects/cx-freeze/files/4.3/cx_Freeze-4.3.win-amd64-py3.2.msi/download
